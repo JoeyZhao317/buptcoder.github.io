@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://cobola.github.io
-author: cobola
+url: http://buptcoder.github.io
+author: buptcoder
 pygments: true
 paginate: 24
